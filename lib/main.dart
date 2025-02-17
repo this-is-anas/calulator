@@ -27,8 +27,8 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
 
-  var userQuestions = '';
-  var userAnswers = '';
+  var userQuestions = 'Questions';
+  var userAnswers = 'Answers';
 
 
   final List<String> buttons =
