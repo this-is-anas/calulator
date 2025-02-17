@@ -1,16 +1,73 @@
-# calculator
+# 🧮 Simple Calculator App
 
-A new Flutter project.
+A lightweight and efficient calculator app built using Flutter and the **math_expressions** package. This app allows users to perform basic arithmetic calculations with a clean and simple user interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ Perform basic arithmetic operations (+, -, *, /)  
+✅ Supports complex expressions using **math_expressions**  
+✅ Simple and user-friendly UI  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Directory Structure
+
+```
+lib/
+│ ├── buttons.dart
+│ └── main.dart
+```
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/calculator-app.git
+   cd calculator-app
+   ```
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+   ```
+3. **Run the app**
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 🏗️ Tech Stack
+
+- **Flutter** - UI framework
+- **math_expressions** - Mathematical expression parser
+
+---
+
+## ✨ Screenshots
+ 
+![WhatsApp Image 2025-02-17 at 23 46 43_fff763c4](https://github.com/user-attachments/assets/82bb1292-325c-45a6-be6f-9d34d0963797)
+
+---
+
+## 📌 Upcoming Features
+
+🚀 Advanced scientific functions  
+🚀 History of calculations  
+🚀 Custom themes  
+
+---
+
+## 🤝 Contributing
+
+Pull requests and feature suggestions are welcome! Feel free to open an issue to discuss changes.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
